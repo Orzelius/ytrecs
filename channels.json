@@ -6,7 +6,11 @@
         {
           "tag": "@Stevem",
           "subGanre": "anime",
-          "rec": "https://youtu.be/9GzZuRMwbW4?si=iPQ2l3DvsCDq5BVU"
+          "comment": "well researched anime content",
+          "engLv": "normal",
+          "recs": [
+            "https://youtu.be/9GzZuRMwbW4?si=iPQ2l3DvsCDq5BVU"
+          ]
         }
       ]
     }

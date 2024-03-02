@@ -13,7 +13,9 @@ export interface Category {
 export interface Channel {
   tag: string
   subGanre: string
-  rec: string
+  recs: string[]
+  comment: string
+  engLv: "easy" | "normal" | "hard"
 }
 
 
