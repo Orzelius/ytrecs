@@ -1,4 +1,7 @@
 import d from "../channels.json"
+import { youtube } from '@googleapis/youtube';
+
+
 const data = d as RootJson
 
 export interface RootJson {
@@ -18,6 +21,5 @@ export interface Channel {
   engLv: "easy" | "normal" | "hard"
 }
 
-
-
-
+const yt = youtube({ version: "v3", auth: "" })
+yt.channels.list({ forHandle: "" })
