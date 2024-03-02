@@ -1,25 +1,68 @@
 import d from "../channels.json"
 import { youtube } from '@googleapis/youtube';
-
+import apiKey from "./google-api-key.json"
+import * as fs from 'fs';
 
 const data = d as RootJson
+if (!apiKey.key) throw Error(
+  "Google API key not found. Create google-api-key.json at /data (see data/example-google-api-key.json)")
 
-export interface RootJson {
+interface RootJson {
   categories: Category[]
 }
-
-export interface Category {
+interface Category {
   name: string
   channels: Channel[]
 }
 
-export interface Channel {
-  tag: string
+interface Channel {
+  handle: string
   subGanre: string
   recs: string[]
   comment: string
   engLv: "easy" | "normal" | "hard"
 }
 
-const yt = youtube({ version: "v3", auth: "" })
-yt.channels.list({ forHandle: "" })
+export interface ChannelData extends Channel {
+  pic: string | undefined
+  videosCount?: number
+  subs?: number | string
+  link: string
+}
+export interface OutputCategory extends Category {
+  channels: ChannelData[]
+}
+
+const yt = youtube({ version: "v3", auth: apiKey.key })
+
+const output: OutputCategory[] = []
+
+for await (const category of data.categories) {
+  const categoryIndex = output.push({ channels: [], name: category.name }) - 1
+
+  for await (const c of category.channels) {
+    const resultChannels = (await yt.channels.list({
+      forHandle: c.handle, part: ["statistics", "snippet"]
+    })).data.items
+    await sleep(1000) // pause so the yt api doesn't get angry with us
+    if (!resultChannels || !resultChannels[0]) {
+      console.warn("No channel found with handle " + c.handle)
+      break
+    }
+    const channel = resultChannels[0]
+    output[categoryIndex].channels.push({
+      ...c,
+      link: "https://www.youtube.com/" + c.handle,
+      videosCount: parseInt(channel.statistics?.videoCount || ""),
+      subs: channel.statistics?.subscriberCount || 0,
+      pic: channel.snippet?.thumbnails?.default?.url || ""
+    })
+  }
+}
+
+const outputData = JSON.stringify(output, null, 2)
+fs.writeFileSync("../channelsOutput.json", outputData)
+
+function sleep(ms: number) {
+  return new Promise(resolve => setTimeout(resolve, ms));
+}

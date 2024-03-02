@@ -1,0 +1,20 @@
+[
+  {
+    "channels": [
+      {
+        "handle": "@Stevem",
+        "subGanre": "anime",
+        "comment": "well researched anime content",
+        "engLv": "normal",
+        "recs": [
+          "https://youtu.be/9GzZuRMwbW4?si=iPQ2l3DvsCDq5BVU"
+        ],
+        "link": "https://www.youtube.com/@Stevem",
+        "videosCount": 174,
+        "subs": "123000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_k7LZe4aenDDxsVFajN8-kk7PmHQ4tMRvhnyaQpVQ=s88-c-k-c0x00ffffff-no-rj"
+      }
+    ],
+    "name": "analysis"
+  }
+]
