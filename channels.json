@@ -2,6 +2,7 @@
   "categories": [
     {
       "name": "analysis",
+      "description": "analysis and discussion about arts",
       "channels": [
         {
           "handle": "@Stevem",
@@ -9,7 +10,44 @@
           "comment": "well researched anime content",
           "engLv": "normal",
           "recs": [
-            "https://youtu.be/9GzZuRMwbW4?si=iPQ2l3DvsCDq5BVU"
+            "https://youtu.be/9GzZuRMwbW4?si=iPQ2l3DvsCDq5BVU",
+            "https://www.youtube.com/watch?v=jN-3QWmNbyw"
+          ]
+        },
+        {
+          "handle": "@12tone",
+          "subGanre": "music",
+          "comment": "short videos on music theory or music analysis",
+          "engLv": "normal",
+          "recs": [
+            "https://www.youtube.com/watch?v=K6HCykbHtBM",
+            "https://www.youtube.com/watch?v=5m7qne9YxgM"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "edutainment",
+      "description": "educational entertainment",
+      "channels": [
+        {
+          "handle": "@aragusea",
+          "subGanre": "food",
+          "comment": "entertaining presentation style and very smart guy who also cooks",
+          "engLv": "easy",
+          "recs": [
+            "https://www.youtube.com/watch?v=YMLws382Mpg",
+            "https://www.youtube.com/watch?v=Sew4rctKghY"
+          ]
+        },
+        {
+          "handle": "@veritasium",
+          "subGanre": "science",
+          "comment": "high production value and high learning benefits",
+          "engLv": "normal",
+          "recs": [
+            "https://www.youtube.com/watch?v=lGJEihgN4OU",
+            "https://www.youtube.com/watch?v=Xzv84ZdtlE0"
           ]
         }
       ]

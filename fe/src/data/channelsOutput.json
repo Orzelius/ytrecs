@@ -1,0 +1,74 @@
+[
+  {
+    "channels": [
+      {
+        "handle": "@Stevem",
+        "subGanre": "anime",
+        "comment": "well researched anime content",
+        "engLv": "normal",
+        "recs": [
+          "https://youtu.be/9GzZuRMwbW4?si=iPQ2l3DvsCDq5BVU",
+          "https://www.youtube.com/watch?v=jN-3QWmNbyw"
+        ],
+        "link": "https://www.youtube.com/@Stevem",
+        "videosCount": 174,
+        "subs": "123000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_k7LZe4aenDDxsVFajN8-kk7PmHQ4tMRvhnyaQpVQ=s88-c-k-c0x00ffffff-no-rj",
+        "name": "STEVEM"
+      },
+      {
+        "handle": "@12tone",
+        "subGanre": "music",
+        "comment": "short videos on music theory or music analysis",
+        "engLv": "normal",
+        "recs": [
+          "https://www.youtube.com/watch?v=K6HCykbHtBM",
+          "https://www.youtube.com/watch?v=5m7qne9YxgM"
+        ],
+        "link": "https://www.youtube.com/@12tone",
+        "videosCount": 360,
+        "subs": "715000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_nZxb3AG549peQBKJXj2F7GvaPAGWrzF6H9tUKh=s88-c-k-c0x00ffffff-no-rj",
+        "name": "12tone"
+      }
+    ],
+    "name": "analysis",
+    "description": "analysis and discussion about arts"
+  },
+  {
+    "channels": [
+      {
+        "handle": "@aragusea",
+        "subGanre": "food",
+        "comment": "entertaining presentation style and very smart guy who also cooks",
+        "engLv": "easy",
+        "recs": [
+          "https://www.youtube.com/watch?v=YMLws382Mpg",
+          "https://www.youtube.com/watch?v=Sew4rctKghY"
+        ],
+        "link": "https://www.youtube.com/@aragusea",
+        "videosCount": 576,
+        "subs": "2420000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_mK8xjzycvFk26uoZD3a3H1L8e9BK-dFZk4--bsMA=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Adam Ragusea"
+      },
+      {
+        "handle": "@veritasium",
+        "subGanre": "science",
+        "comment": "high production value and high learning benefits",
+        "engLv": "normal",
+        "recs": [
+          "https://www.youtube.com/watch?v=lGJEihgN4OU",
+          "https://www.youtube.com/watch?v=Xzv84ZdtlE0"
+        ],
+        "link": "https://www.youtube.com/@veritasium",
+        "videosCount": 389,
+        "subs": "15000000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_looi5tB_pSLZrhB7PQs1ovQOaJ0lYap3uA51jhSA=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Veritasium"
+      }
+    ],
+    "name": "edutainment",
+    "description": "educational entertainment"
+  }
+]
