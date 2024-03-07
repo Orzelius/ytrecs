@@ -6,7 +6,6 @@
       "channels": [
         {
           "handle": "@Stevem",
-          "subgenre": "anime",
           "comment": "well researched anime content",
           "engLv": "normal",
           "recs": [
@@ -16,7 +15,6 @@
         },
         {
           "handle": "@12tone",
-          "subgenre": "music",
           "comment": "short videos on music theory or music analysis",
           "engLv": "normal",
           "recs": [
@@ -32,7 +30,6 @@
       "channels": [
         {
           "handle": "@aragusea",
-          "subgenre": "food",
           "comment": "entertaining presentation style and very smart guy who also cooks",
           "engLv": "easy",
           "recs": [
@@ -42,7 +39,6 @@
         },
         {
           "handle": "@veritasium",
-          "subgenre": "science",
           "comment": "high production value and high learning benefits",
           "engLv": "normal",
           "recs": [

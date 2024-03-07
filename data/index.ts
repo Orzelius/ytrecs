@@ -18,7 +18,6 @@ interface Category {
 
 interface Channel {
   handle: string
-  subgenre: string
   recs: string[]
   comment: string
   engLv: "easy" | "normal" | "hard"
