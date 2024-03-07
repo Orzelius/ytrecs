@@ -3,11 +3,11 @@
     "channels": [
       {
         "handle": "@Stevem",
-        "subGanre": "anime",
+        "subGenre": "anime",
         "comment": "well researched anime content",
         "engLv": "normal",
         "recs": [
-          "https://youtu.be/9GzZuRMwbW4?si=iPQ2l3DvsCDq5BVU",
+          "https://www.youtube.com/watch?v=9GzZuRMwbW4",
           "https://www.youtube.com/watch?v=jN-3QWmNbyw"
         ],
         "link": "https://www.youtube.com/@Stevem",
@@ -18,7 +18,7 @@
       },
       {
         "handle": "@12tone",
-        "subGanre": "music",
+        "subGenre": "music",
         "comment": "short videos on music theory or music analysis",
         "engLv": "normal",
         "recs": [
@@ -39,7 +39,7 @@
     "channels": [
       {
         "handle": "@aragusea",
-        "subGanre": "food",
+        "subGenre": "food",
         "comment": "entertaining presentation style and very smart guy who also cooks",
         "engLv": "easy",
         "recs": [
@@ -54,7 +54,7 @@
       },
       {
         "handle": "@veritasium",
-        "subGanre": "science",
+        "subGenre": "science",
         "comment": "high production value and high learning benefits",
         "engLv": "normal",
         "recs": [
