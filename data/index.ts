@@ -20,7 +20,6 @@ interface Channel {
   handle: string
   recs: string[]
   comment: string
-  engLv: "easy" | "normal" | "hard"
 }
 
 export interface ChannelData extends Channel {

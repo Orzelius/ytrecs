@@ -1,25 +1,121 @@
 {
   "categories": [
     {
+      "name": "Aalu's top three",
+      "description": "educational entertainment",
+      "channels": [
+        {
+          "handle": "@RareEarthSeries",
+          "comment": "though provoking history and stories from around the world",
+          "recs": [
+            "https://www.youtube.com/watch?v=unBdquVfnug",
+            "https://www.youtube.com/watch?v=IRn4xzaugbk",
+            "https://www.youtube.com/watch?v=c7mAL4WbArs"
+          ]
+        },
+        {
+          "handle": "@Exurb1a",
+          "comment": "philosophical humor",
+          "recs": [
+            "https://www.youtube.com/watch?v=tJ7LdrAqL0Y",
+            "https://www.youtube.com/watch?v=SvbTFwXagdQ",
+            "https://www.youtube.com/watch?v=7g1pmHSWHe0",
+            "https://www.youtube.com/watch?v=PK2SMIOHYig"
+          ]
+        },
+        {
+          "handle": "@BeyondGhibli",
+          "comment": "anime analysis",
+          "recs": [
+            "https://www.youtube.com/watch?v=ndhN6ZTfOeM",
+            "https://www.youtube.com/watch?v=hFM_gLwN_Yk",
+            "https://www.youtube.com/watch?v=WAcb_57r1Bo"
+          ]
+        }
+      ]
+    },
+    {
       "name": "analysis",
       "description": "analysis and discussion about arts",
       "channels": [
         {
           "handle": "@Stevem",
           "comment": "well researched anime content",
-          "engLv": "normal",
           "recs": [
-            "https://youtu.be/9GzZuRMwbW4?si=iPQ2l3DvsCDq5BVU",
+            "https://www.youtube.com/watch?v=9GzZuRMwbW4",
             "https://www.youtube.com/watch?v=jN-3QWmNbyw"
           ]
         },
         {
+          "handle": "@YggStudio",
+          "comment": "anime analysis",
+          "recs": [
+            "https://www.youtube.com/watch?v=Ip5CpjXR4CI",
+            "https://www.youtube.com/watch?v=QR7yWdimmC4"
+          ]
+        },
+        {
           "handle": "@12tone",
-          "comment": "short videos on music theory or music analysis",
-          "engLv": "normal",
+          "comment": "short music theory and music analysis videos",
           "recs": [
             "https://www.youtube.com/watch?v=K6HCykbHtBM",
             "https://www.youtube.com/watch?v=5m7qne9YxgM"
+          ]
+        },
+        {
+          "handle": "@8bitMusicTheory",
+          "comment": "computer game music theory and analysis",
+          "recs": [
+            "https://www.youtube.com/watch?v=wLpXMIIZSB0",
+            "https://www.youtube.com/watch?v=SdDeufxfJeE"
+          ]
+        },
+        {
+          "handle": "@AdamNeely",
+          "comment": "music and musicology",
+          "recs": [
+            "https://www.youtube.com/watch?v=gFXcwv9XISc",
+            "https://www.youtube.com/watch?v=6c_LeIXrzAk"
+          ]
+        },
+        {
+          "handle": "@Nerdwriter1",
+          "comment": "analysis on movies, arts and life",
+          "recs": [
+            "https://www.youtube.com/watch?v=_aFo_BV-UzI",
+            "https://www.youtube.com/watch?v=ma1rD2OP85c"
+          ]
+        },
+        {
+          "handle": "@everyframeapainting",
+          "comment": "analysis of movies and film",
+          "recs": [
+            "https://www.youtube.com/watch?v=oz49vQwSoTE",
+            "https://www.youtube.com/watch?v=doaQC-S8de8"
+          ]
+        },
+        {
+          "handle": "@Polyphonic",
+          "comment": "music discussion",
+          "recs": [
+            "https://www.youtube.com/watch?v=7NxqlnHm1oA",
+            "https://www.youtube.com/watch?v=yVkbwqKBO4E"
+          ]
+        },
+        {
+          "handle": "@DBruce",
+          "comment": "a composer's thoughts on music",
+          "recs": [
+            "https://www.youtube.com/watch?v=0dsjuPZsNwQ",
+            "https://www.youtube.com/watch?v=TdEOtjSL8z4"
+          ]
+        },
+        {
+          "handle": "@Sideways440",
+          "comment": "analysis of movie soundtracks and musicals",
+          "recs": [
+            "https://www.youtube.com/watch?v=eG1_Fcaq280",
+            "https://www.youtube.com/watch?v=FstNC8T4LjA"
           ]
         }
       ]
@@ -31,7 +127,6 @@
         {
           "handle": "@aragusea",
           "comment": "entertaining presentation style and very smart guy who also cooks",
-          "engLv": "easy",
           "recs": [
             "https://www.youtube.com/watch?v=YMLws382Mpg",
             "https://www.youtube.com/watch?v=Sew4rctKghY"
@@ -40,10 +135,102 @@
         {
           "handle": "@veritasium",
           "comment": "high production value and high learning benefits",
-          "engLv": "normal",
           "recs": [
             "https://www.youtube.com/watch?v=lGJEihgN4OU",
             "https://www.youtube.com/watch?v=Xzv84ZdtlE0"
+          ]
+        },
+        {
+          "handle": "@FortNine",
+          "comment": "motorcycles, but extremely entertaining",
+          "recs": [
+            "https://www.youtube.com/watch?v=XeuXShFIgyc",
+            "https://www.youtube.com/watch?v=b0ZjDSn2jD0"
+          ]
+        },
+        {
+          "handle": "@MentalOutlaw",
+          "comment": "IT and it news",
+          "recs": [
+            "https://www.youtube.com/watch?v=0Ua8HrgZsAg",
+            "https://www.youtube.com/watch?v=2Ple9F5XOdE"
+          ]
+        },
+        {
+          "handle": "@betterideas",
+          "comment": "self improvement and motivation and stuff",
+          "recs": [
+            "https://www.youtube.com/watch?v=0_MEqKi_i7Y",
+            "https://www.youtube.com/watch?v=Vd_Lcub_OxA"
+          ]
+        },
+        {
+          "handle": "@WhatIveLearned",
+          "comment": "health and diet",
+          "recs": [
+            "https://www.youtube.com/watch?v=Dan8qtgQRi8",
+            "https://www.youtube.com/watch?v=rQmqVVmMB3k"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "educational",
+      "description": "pure learnings",
+      "channels": [
+        {
+          "handle": "@EconomicsExplained",
+          "comment": "economics explained",
+          "recs": [
+            "https://www.youtube.com/watch?v=N1dAM2rPtKo",
+            "https://www.youtube.com/watch?v=krG2eWW4n5A"
+          ]
+        },
+        {
+          "handle": "@Asianometry",
+          "comment": "semiconductors and asian history",
+          "recs": [
+            "https://www.youtube.com/watch?v=P60sA3kYRpE",
+            "https://www.youtube.com/watch?v=19l7WkkwYi8",
+            "https://www.youtube.com/watch?v=rXS6lTYSgCw"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "adventure, travel, vlog",
+      "description": "vlogs and stuff",
+      "channels": [
+        {
+          "handle": "@CurrentlyHannah",
+          "comment": "travel vlogs, mostly Japan",
+          "recs": [
+            "https://www.youtube.com/watch?v=EXlaC57yT9o",
+            "https://www.youtube.com/watch?v=mRwTyYzNUMI"
+          ]
+        },
+        {
+          "handle": "@kraigadams",
+          "comment": "hiking, almost no talking",
+          "recs": [
+            "https://www.youtube.com/watch?v=WH_AgfLedbE",
+            "https://www.youtube.com/watch?v=WKcnvPDgifA"
+          ]
+        },
+        {
+          "handle": "@PeterSripol",
+          "comment": "DIY",
+          "recs": [
+            "https://www.youtube.com/watch?v=oflk3HtUKe0",
+            "https://www.youtube.com/watch?v=GSDNgnhJ-FM"
+          ]
+        },
+        {
+          "handle": "@rctestflight",
+          "comment": "DIY",
+          "recs": [
+            "https://www.youtube.com/watch?v=aFRtNeOpGNs",
+            "https://www.youtube.com/watch?v=W5nBqzW9lXY"
           ]
         }
       ]

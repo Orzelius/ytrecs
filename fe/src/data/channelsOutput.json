@@ -2,12 +2,59 @@
   {
     "channels": [
       {
-        "handle": "@Stevem",
-        "subgenre": "anime",
-        "comment": "well researched anime content",
-        "engLv": "normal",
+        "handle": "@RareEarthSeries",
+        "comment": "though provoking history and stories from around the world",
         "recs": [
-          "https://youtu.be/9GzZuRMwbW4?si=iPQ2l3DvsCDq5BVU",
+          "https://www.youtube.com/watch?v=unBdquVfnug",
+          "https://www.youtube.com/watch?v=IRn4xzaugbk",
+          "https://www.youtube.com/watch?v=c7mAL4WbArs"
+        ],
+        "link": "https://www.youtube.com/@RareEarthSeries",
+        "videosCount": 215,
+        "subs": "1060000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_kyLN1-MXASUiUpJGqaq5Y_urAR4i-x0caxpYyppFM=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Rare Earth"
+      },
+      {
+        "handle": "@Exurb1a",
+        "comment": "philosophical humor",
+        "recs": [
+          "https://www.youtube.com/watch?v=tJ7LdrAqL0Y",
+          "https://www.youtube.com/watch?v=SvbTFwXagdQ",
+          "https://www.youtube.com/watch?v=7g1pmHSWHe0",
+          "https://www.youtube.com/watch?v=PK2SMIOHYig"
+        ],
+        "link": "https://www.youtube.com/@Exurb1a",
+        "videosCount": 82,
+        "subs": "2800000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_mAIj1dDKGZhgdo89Z4L27zCNJnMDpTNYA9Xkdurg=s88-c-k-c0x00ffffff-no-rj",
+        "name": "exurb1a"
+      },
+      {
+        "handle": "@BeyondGhibli",
+        "comment": "anime analysis",
+        "recs": [
+          "https://www.youtube.com/watch?v=ndhN6ZTfOeM",
+          "https://www.youtube.com/watch?v=hFM_gLwN_Yk",
+          "https://www.youtube.com/watch?v=WAcb_57r1Bo"
+        ],
+        "link": "https://www.youtube.com/@BeyondGhibli",
+        "videosCount": 69,
+        "subs": "186000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_m_mETuPJXGAEjv8cMEdgL3ctuHXPdbPLnH8uo1Jw=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Beyond Ghibli"
+      }
+    ],
+    "name": "Aalu's top three",
+    "description": "educational entertainment"
+  },
+  {
+    "channels": [
+      {
+        "handle": "@Stevem",
+        "comment": "well researched anime content",
+        "recs": [
+          "https://www.youtube.com/watch?v=9GzZuRMwbW4",
           "https://www.youtube.com/watch?v=jN-3QWmNbyw"
         ],
         "link": "https://www.youtube.com/@Stevem",
@@ -17,10 +64,21 @@
         "name": "STEVEM"
       },
       {
+        "handle": "@YggStudio",
+        "comment": "anime analysis",
+        "recs": [
+          "https://www.youtube.com/watch?v=Ip5CpjXR4CI",
+          "https://www.youtube.com/watch?v=QR7yWdimmC4"
+        ],
+        "link": "https://www.youtube.com/@YggStudio",
+        "videosCount": 1133,
+        "subs": "300000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_kyjKp_5la-Z29f9NpcqmUeywvof0qjQmCqbeUlGQ=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Ygg Studio"
+      },
+      {
         "handle": "@12tone",
-        "subgenre": "music",
-        "comment": "short videos on music theory or music analysis",
-        "engLv": "normal",
+        "comment": "short music theory and music analysis videos",
         "recs": [
           "https://www.youtube.com/watch?v=K6HCykbHtBM",
           "https://www.youtube.com/watch?v=5m7qne9YxgM"
@@ -30,6 +88,97 @@
         "subs": "716000",
         "pic": "https://yt3.ggpht.com/ytc/AIdro_nZxb3AG549peQBKJXj2F7GvaPAGWrzF6H9tUKh=s88-c-k-c0x00ffffff-no-rj",
         "name": "12tone"
+      },
+      {
+        "handle": "@8bitMusicTheory",
+        "comment": "computer game music theory and analysis",
+        "recs": [
+          "https://www.youtube.com/watch?v=wLpXMIIZSB0",
+          "https://www.youtube.com/watch?v=SdDeufxfJeE"
+        ],
+        "link": "https://www.youtube.com/@8bitMusicTheory",
+        "videosCount": 167,
+        "subs": "517000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_mrnhvDjduCI5BcmYEHPt4GdmRh1byqKQsZK0e3=s88-c-k-c0x00ffffff-no-rj",
+        "name": "8-bit Music Theory"
+      },
+      {
+        "handle": "@AdamNeely",
+        "comment": "music and musicology",
+        "recs": [
+          "https://www.youtube.com/watch?v=gFXcwv9XISc",
+          "https://www.youtube.com/watch?v=6c_LeIXrzAk"
+        ],
+        "link": "https://www.youtube.com/@AdamNeely",
+        "videosCount": 493,
+        "subs": "1760000",
+        "pic": "https://yt3.ggpht.com/CyS4xHeYecw4f_RQpzUepHOj7ygR0Z1gYjn17Egndj1Gw0CvHMI-h5VawalYfebrQo9ah8jwHXM=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Adam Neely"
+      },
+      {
+        "handle": "@Nerdwriter1",
+        "comment": "analysis on movies, arts and life",
+        "recs": [
+          "https://www.youtube.com/watch?v=_aFo_BV-UzI",
+          "https://www.youtube.com/watch?v=ma1rD2OP85c"
+        ],
+        "link": "https://www.youtube.com/@Nerdwriter1",
+        "videosCount": 288,
+        "subs": "3160000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_kmmtp6vG0AYQJLAFn09cS-e1C8zxe2rd50NBqIiw=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Nerdwriter1"
+      },
+      {
+        "handle": "@everyframeapainting",
+        "comment": "analysis of movies and film",
+        "recs": [
+          "https://www.youtube.com/watch?v=oz49vQwSoTE",
+          "https://www.youtube.com/watch?v=doaQC-S8de8"
+        ],
+        "link": "https://www.youtube.com/@everyframeapainting",
+        "videosCount": 28,
+        "subs": "2080000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_nD9DEpdiOY9qVsmHjBgNTMVWf16dQsz4nvdfDx=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Every Frame a Painting"
+      },
+      {
+        "handle": "@Polyphonic",
+        "comment": "music discussion",
+        "recs": [
+          "https://www.youtube.com/watch?v=7NxqlnHm1oA",
+          "https://www.youtube.com/watch?v=yVkbwqKBO4E"
+        ],
+        "link": "https://www.youtube.com/@Polyphonic",
+        "videosCount": 318,
+        "subs": "1070000",
+        "pic": "https://yt3.ggpht.com/LXLXmAJqckuaw50IDikEWOH40equVi8DpBEIyb-3kxTRTBBQcv38ttIYpwdUoMKIXA892vtTlbA=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Polyphonic"
+      },
+      {
+        "handle": "@DBruce",
+        "comment": "a composer's thoughts on music",
+        "recs": [
+          "https://www.youtube.com/watch?v=0dsjuPZsNwQ",
+          "https://www.youtube.com/watch?v=TdEOtjSL8z4"
+        ],
+        "link": "https://www.youtube.com/@DBruce",
+        "videosCount": 145,
+        "subs": "295000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_nUKdnVarXKBfGriaMVrUjoz2QEDqtAvzBAWbMCiQ=s88-c-k-c0x00ffffff-no-rj",
+        "name": "David Bruce Composer"
+      },
+      {
+        "handle": "@Sideways440",
+        "comment": "analysis of movie soundtracks and musicals",
+        "recs": [
+          "https://www.youtube.com/watch?v=eG1_Fcaq280",
+          "https://www.youtube.com/watch?v=FstNC8T4LjA"
+        ],
+        "link": "https://www.youtube.com/@Sideways440",
+        "videosCount": 57,
+        "subs": "958000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_kP4J1-DMvlWuOjbzHuVR0xzw4b1P6TwXxLdFnw=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Sideways"
       }
     ],
     "name": "analysis",
@@ -39,9 +188,7 @@
     "channels": [
       {
         "handle": "@aragusea",
-        "subgenre": "food",
         "comment": "entertaining presentation style and very smart guy who also cooks",
-        "engLv": "easy",
         "recs": [
           "https://www.youtube.com/watch?v=YMLws382Mpg",
           "https://www.youtube.com/watch?v=Sew4rctKghY"
@@ -54,9 +201,7 @@
       },
       {
         "handle": "@veritasium",
-        "subgenre": "science",
         "comment": "high production value and high learning benefits",
-        "engLv": "normal",
         "recs": [
           "https://www.youtube.com/watch?v=lGJEihgN4OU",
           "https://www.youtube.com/watch?v=Xzv84ZdtlE0"
@@ -66,9 +211,152 @@
         "subs": "15100000",
         "pic": "https://yt3.ggpht.com/ytc/AIdro_looi5tB_pSLZrhB7PQs1ovQOaJ0lYap3uA51jhSA=s88-c-k-c0x00ffffff-no-rj",
         "name": "Veritasium"
+      },
+      {
+        "handle": "@FortNine",
+        "comment": "motorcycles, but extremely entertaining",
+        "recs": [
+          "https://www.youtube.com/watch?v=XeuXShFIgyc",
+          "https://www.youtube.com/watch?v=b0ZjDSn2jD0"
+        ],
+        "link": "https://www.youtube.com/@FortNine",
+        "videosCount": 387,
+        "subs": "1890000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_mDuFmcACWiwoWHtpCm8AEW1pjXcttMZe9l1wVQ=s88-c-k-c0x00ffffff-no-rj",
+        "name": "FortNine"
+      },
+      {
+        "handle": "@MentalOutlaw",
+        "comment": "IT and it news",
+        "recs": [
+          "https://www.youtube.com/watch?v=0Ua8HrgZsAg",
+          "https://www.youtube.com/watch?v=2Ple9F5XOdE"
+        ],
+        "link": "https://www.youtube.com/@MentalOutlaw",
+        "videosCount": 930,
+        "subs": "593000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_m9OzMfkHgPKCfADXo66JfggAOYI9-WZrOMMNYF6w=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Mental Outlaw"
+      },
+      {
+        "handle": "@betterideas",
+        "comment": "self improvement and motivation and stuff",
+        "recs": [
+          "https://www.youtube.com/watch?v=0_MEqKi_i7Y",
+          "https://www.youtube.com/watch?v=Vd_Lcub_OxA"
+        ],
+        "link": "https://www.youtube.com/@betterideas",
+        "videosCount": 111,
+        "subs": "2750000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_ng8jZEQnvp_VfKXDRWY0FG27RhSWXtC6hfbLLJ=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Better Ideas"
+      },
+      {
+        "handle": "@WhatIveLearned",
+        "comment": "health and diet",
+        "recs": [
+          "https://www.youtube.com/watch?v=Dan8qtgQRi8",
+          "https://www.youtube.com/watch?v=rQmqVVmMB3k"
+        ],
+        "link": "https://www.youtube.com/@WhatIveLearned",
+        "videosCount": 132,
+        "subs": "2250000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_mU3VOhBqJqp2Rmve0muDavWHoLI_GueHO_kKsnkA=s88-c-k-c0x00ffffff-no-rj",
+        "name": "What I've Learned"
       }
     ],
     "name": "edutainment",
     "description": "educational entertainment"
+  },
+  {
+    "channels": [
+      {
+        "handle": "@EconomicsExplained",
+        "comment": "economics explained",
+        "recs": [
+          "https://www.youtube.com/watch?v=N1dAM2rPtKo",
+          "https://www.youtube.com/watch?v=krG2eWW4n5A"
+        ],
+        "link": "https://www.youtube.com/@EconomicsExplained",
+        "videosCount": 342,
+        "subs": "2500000",
+        "pic": "https://yt3.ggpht.com/LKssvfNuBZEZVm8uw78-X0X5oJbMFqViWN_UuzK450jyU9kT9Oy9lDcIjrPaEFmli6B9KANWnA=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Economics Explained"
+      },
+      {
+        "handle": "@Asianometry",
+        "comment": "semiconductors and asian history",
+        "recs": [
+          "https://www.youtube.com/watch?v=P60sA3kYRpE",
+          "https://www.youtube.com/watch?v=19l7WkkwYi8",
+          "https://www.youtube.com/watch?v=rXS6lTYSgCw"
+        ],
+        "link": "https://www.youtube.com/@Asianometry",
+        "videosCount": 487,
+        "subs": "634000",
+        "pic": "https://yt3.ggpht.com/fBpoUkJJ6iVHfHocQ0gPcqLxa1RJIZzdGmP0o72ZK2uVJFwbNt4Afnwmkvv_NikYGCQ6oI7L4dA=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Asianometry"
+      }
+    ],
+    "name": "educational",
+    "description": "pure learnings"
+  },
+  {
+    "channels": [
+      {
+        "handle": "@CurrentlyHannah",
+        "comment": "travel vlogs, mostly Japan",
+        "recs": [
+          "https://www.youtube.com/watch?v=EXlaC57yT9o",
+          "https://www.youtube.com/watch?v=mRwTyYzNUMI"
+        ],
+        "link": "https://www.youtube.com/@CurrentlyHannah",
+        "videosCount": 336,
+        "subs": "495000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_kerIsOCPC-fgEmmwl4Xqtq7ybK_NCvZtu-2QHpBg=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Currently Hannah"
+      },
+      {
+        "handle": "@kraigadams",
+        "comment": "hiking, almost no talking",
+        "recs": [
+          "https://www.youtube.com/watch?v=WH_AgfLedbE",
+          "https://www.youtube.com/watch?v=WKcnvPDgifA"
+        ],
+        "link": "https://www.youtube.com/@kraigadams",
+        "videosCount": 255,
+        "subs": "755000",
+        "pic": "https://yt3.ggpht.com/Q5rf5ItB1wumirWCX0cVO7d31Hi4N1B5vIWthJ7Bx8_1KyIAiFXFkGS0CLqBpowSicJMdI32B40=s88-c-k-c0x00ffffff-no-rj",
+        "name": "Kraig Adams"
+      },
+      {
+        "handle": "@PeterSripol",
+        "comment": "DIY",
+        "recs": [
+          "https://www.youtube.com/watch?v=oflk3HtUKe0",
+          "https://www.youtube.com/watch?v=GSDNgnhJ-FM"
+        ],
+        "link": "https://www.youtube.com/@PeterSripol",
+        "videosCount": 170,
+        "subs": "2300000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_mO0qLnrbzVUceAllAKluEXsmLpKyq6BHiDE21_eA=s88-c-k-c0x00ffffff-no-rj",
+        "name": "PeterSripol"
+      },
+      {
+        "handle": "@rctestflight",
+        "comment": "DIY",
+        "recs": [
+          "https://www.youtube.com/watch?v=aFRtNeOpGNs",
+          "https://www.youtube.com/watch?v=W5nBqzW9lXY"
+        ],
+        "link": "https://www.youtube.com/@rctestflight",
+        "videosCount": 661,
+        "subs": "692000",
+        "pic": "https://yt3.ggpht.com/ytc/AIdro_lzU0fcOYHvWwkHV7MnPHwIWsXdsm-PP7zZNywR=s88-c-k-c0x00ffffff-no-rj",
+        "name": "rctestflight"
+      }
+    ],
+    "name": "adventure, travel, vlog",
+    "description": "vlogs and stuff"
   }
 ]
